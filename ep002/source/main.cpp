@@ -11,6 +11,6 @@ T add(T a, T b)
 int main()
 {
     std::cout << "Hello from c++ 20 with CMake on Linux/Windows" << std::endl;
-    std::cout << "The sum is : " <<add (7,5) << std::endl;
+    std::cout << "The sum is : " <<add (7,3) << std::endl;
     return 0;
 }
